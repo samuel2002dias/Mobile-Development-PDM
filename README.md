@@ -1,2 +1,7 @@
 # Mobile Development Classes
- All practical stuff done during Mobile Development classes
+Mobile Development - Computer Science and Engineering at UBI
+
+This repository has:
+
+- All practical things done during Mobile Development classes.
+- Final project (Later)
